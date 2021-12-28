@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieDB App</string>
+    <string name="title">Movie Title</string>
+    <string name="release_date">Date</string>
+    <string name="vote">Vote</string>
+    <string name="description">Description</string>
+    <string name="language">Language</string>
+    <string name="something_wrong">Something Wrong</string>
+</resources>
